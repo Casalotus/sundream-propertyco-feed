@@ -1,7 +1,7 @@
 {
     "source": "propertyco.es/agencias",
     "developer": "PROPERTY Y CONSULTING OFFICE",
-    "generated_at": "2026-09-12T06:16:23+00:00",
+    "generated_at": "2026-09-13T06:16:25+00:00",
     "target_artifact": "https://claude.ai/code/artifact/dfa8038d-cd21-4b17-8a76-f175ce0a1623",
     "target_collection": "products",
     "products": [
@@ -18,7 +18,7 @@
                 "price": 170000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 97 unidades — precios desde 170000.00€ hasta 500000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 97 unidades — precios desde 170000.00€ hasta 500000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1784013096_A%C3%A9rea%20desde%20el%20mar%20-%205K.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -1327,7 +1327,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:05+00:00"
+                "updatedAt": "2026-09-13T06:15:05+00:00"
             }
         },
         {
@@ -1343,7 +1343,7 @@
                 "price": 379000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 7 unidades — precios desde 379000.00€ hasta 420000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://propertyco.es/preview/hYCrzsZB",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 7 unidades — precios desde 379000.00€ hasta 420000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://propertyco.es/preview/hYCrzsZB",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785229443_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -1516,7 +1516,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:07+00:00"
+                "updatedAt": "2026-09-13T06:15:08+00:00"
             }
         },
         {
@@ -1532,7 +1532,7 @@
                 "price": 268900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 8 unidades — precios desde 268900.00€ hasta 282900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 8 unidades — precios desde 268900.00€ hasta 282900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785145112_3%20copy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -1712,7 +1712,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:09+00:00"
+                "updatedAt": "2026-09-13T06:15:09+00:00"
             }
         },
         {
@@ -1728,7 +1728,7 @@
                 "price": 274900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 8 unidades — precios desde 274900.00€ hasta 329900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 8 unidades — precios desde 274900.00€ hasta 329900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1781094540_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -1961,7 +1961,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:11+00:00"
+                "updatedAt": "2026-09-13T06:15:11+00:00"
             }
         },
         {
@@ -1977,7 +1977,7 @@
                 "price": 890000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 2 unidades — precios desde 890000.00€ hasta 890000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 2 unidades — precios desde 890000.00€ hasta 890000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1775585908_LAKE.PNG",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2077,7 +2077,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:13+00:00"
+                "updatedAt": "2026-09-13T06:15:13+00:00"
             }
         },
         {
@@ -2093,7 +2093,7 @@
                 "price": 283400,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 283400.00€ hasta 283400.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 283400.00€ hasta 283400.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1780912826_Captura%20de%20pantalla%202026-06-08%20115952.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2237,7 +2237,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:14+00:00"
+                "updatedAt": "2026-09-13T06:15:15+00:00"
             }
         },
         {
@@ -2253,7 +2253,7 @@
                 "price": 376500,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 376500.00€ hasta 376500.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 376500.00€ hasta 376500.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1778155045_3.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2329,7 +2329,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:16+00:00"
+                "updatedAt": "2026-09-13T06:15:16+00:00"
             }
         },
         {
@@ -2345,7 +2345,7 @@
                 "price": 453000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 6 unidades — precios desde 453000.00€ hasta 549000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 6 unidades — precios desde 453000.00€ hasta 549000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1781585088_2.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2489,7 +2489,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:18+00:00"
+                "updatedAt": "2026-09-13T06:15:18+00:00"
             }
         },
         {
@@ -2505,7 +2505,7 @@
                 "price": 595000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 3 unidades — precios desde 595000.00€ hasta 652000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 3 unidades — precios desde 595000.00€ hasta 652000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776431563_Captura%20de%20pantalla%202026-04-17%20151026.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2658,7 +2658,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:20+00:00"
+                "updatedAt": "2026-09-13T06:15:20+00:00"
             }
         },
         {
@@ -2674,7 +2674,7 @@
                 "price": 279900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 279900.00€ hasta 279900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 279900.00€ hasta 279900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1777470760_Captura%20de%20pantalla%202026-04-29%20154904.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2814,7 +2814,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:21+00:00"
+                "updatedAt": "2026-09-13T06:15:22+00:00"
             }
         },
         {
@@ -2830,7 +2830,7 @@
                 "price": 151900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 12 unidades — precios desde 151900.00€ hasta 248900.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 12 unidades — precios desde 151900.00€ hasta 248900.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776932862_Captura%20de%20pantalla%202026-04-23%20102709.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3339,7 +3339,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:23+00:00"
+                "updatedAt": "2026-09-13T06:15:24+00:00"
             }
         },
         {
@@ -3355,7 +3355,7 @@
                 "price": 229900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 2 unidades — precios desde 229900.00€ hasta 239900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 2 unidades — precios desde 229900.00€ hasta 239900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776600586_VILLAGE.PNG",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3528,7 +3528,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:25+00:00"
+                "updatedAt": "2026-09-13T06:15:25+00:00"
             }
         },
         {
@@ -3544,7 +3544,7 @@
                 "price": 268900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 8 unidades — precios desde 268900.00€ hasta 299900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 8 unidades — precios desde 268900.00€ hasta 299900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776346274_Captura%20de%20pantalla%202026-04-16%20153055.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3789,7 +3789,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:26+00:00"
+                "updatedAt": "2026-09-13T06:15:27+00:00"
             }
         },
         {
@@ -3805,7 +3805,7 @@
                 "price": 278900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 10 unidades — precios desde 278900.00€ hasta 399900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 10 unidades — precios desde 278900.00€ hasta 399900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1774025386_Torre.PNG",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -4266,7 +4266,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:28+00:00"
+                "updatedAt": "2026-09-13T06:15:29+00:00"
             }
         },
         {
@@ -4282,7 +4282,7 @@
                 "price": 319900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 5 unidades — precios desde 319900.00€ hasta 341900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/w3y535hroy7wqwox24scq/AFSycVT7KmI5VnKcI3P6IGY?rlkey=quz3nhawgweutll1zsf3ki0zg&st=wgl6ybnv&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 5 unidades — precios desde 319900.00€ hasta 341900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/w3y535hroy7wqwox24scq/AFSycVT7KmI5VnKcI3P6IGY?rlkey=quz3nhawgweutll1zsf3ki0zg&st=wgl6ybnv&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1773218440_Captura%20de%20pantalla%202026-03-11%20093400.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -4419,7 +4419,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:30+00:00"
+                "updatedAt": "2026-09-13T06:15:31+00:00"
             }
         },
         {
@@ -4435,7 +4435,7 @@
                 "price": 226900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 30 unidades — precios desde 226900.00€ hasta 304900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/mxx0iznwgyk269thsahsn/AABIKID7gdsY4XYx3O5kEvU?rlkey=fqslanzyshvzrptnj5bk13tma&st=ttrqr78r&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 30 unidades — precios desde 226900.00€ hasta 304900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/mxx0iznwgyk269thsahsn/AABIKID7gdsY4XYx3O5kEvU?rlkey=fqslanzyshvzrptnj5bk13tma&st=ttrqr78r&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1759674400.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -4996,7 +4996,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:33+00:00"
+                "updatedAt": "2026-09-13T06:15:33+00:00"
             }
         },
         {
@@ -5012,7 +5012,7 @@
                 "price": 268900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 9 unidades — precios desde 268900.00€ hasta 298900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/6nkqgnhmrm9wub5ba6j58/AA6JxuMH3UzkPZR_uhilOd8?rlkey=jmvp7ugja2m3vkyj2dcle40pp&st=cyamr0tp&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 9 unidades — precios desde 268900.00€ hasta 298900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/6nkqgnhmrm9wub5ba6j58/AA6JxuMH3UzkPZR_uhilOd8?rlkey=jmvp7ugja2m3vkyj2dcle40pp&st=cyamr0tp&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/Ym05UoSmeZ8ZPIBIHErJCcXVjoSXi2aiLc30qaTF.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5398,7 +5398,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:35+00:00"
+                "updatedAt": "2026-09-13T06:15:36+00:00"
             }
         },
         {
@@ -5414,7 +5414,7 @@
                 "price": 291500,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 13 unidades — precios desde 291500.00€ hasta 393500.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/9c554e8z27o3uqgat5yft/AHoo_7bbqFdeXAkt8NK7glU?rlkey=8mnw5pnxkzgc8tir663a7rytt&st=37zgjmao&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 13 unidades — precios desde 291500.00€ hasta 393500.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/9c554e8z27o3uqgat5yft/AHoo_7bbqFdeXAkt8NK7glU?rlkey=8mnw5pnxkzgc8tir663a7rytt&st=37zgjmao&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/xMyrEmWaT8OklhTmixdm6507MDcDbtk4RjKjwFuy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5695,7 +5695,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:37+00:00"
+                "updatedAt": "2026-09-13T06:15:38+00:00"
             }
         },
         {
@@ -5711,7 +5711,7 @@
                 "price": 259900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 4 unidades — precios desde 259900.00€ hasta 269900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/rqwo12pi2wpergcqrum5s/AJxN2bOQ_9HUIroVXCUi1wU?rlkey=26c8rwqaksrxphboej1g2two7&st=epx3e0s0&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 4 unidades — precios desde 259900.00€ hasta 269900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/rqwo12pi2wpergcqrum5s/AJxN2bOQ_9HUIroVXCUi1wU?rlkey=26c8rwqaksrxphboej1g2two7&st=epx3e0s0&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/gPTcBVDZUuvKDVrwCU0pCTHMDTc6OXgKrP6fHEdN.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5852,7 +5852,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:39+00:00"
+                "updatedAt": "2026-09-13T06:15:40+00:00"
             }
         },
         {
@@ -5868,7 +5868,7 @@
                 "price": 590000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 590000.00€ hasta 590000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/d4eupw0fgnz7ofeio5dlo/AOIfqBnjQjUJx-uWHR5UYa8?rlkey=1memfiyaqcb7cqebkf5stev7j&st=3v86d56t&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 590000.00€ hasta 590000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/d4eupw0fgnz7ofeio5dlo/AOIfqBnjQjUJx-uWHR5UYa8?rlkey=1memfiyaqcb7cqebkf5stev7j&st=3v86d56t&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/tmr3OICT0jgeB8u6PE8akHFav1av2ROaXFgAtzyV.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5945,7 +5945,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:41+00:00"
+                "updatedAt": "2026-09-13T06:15:42+00:00"
             }
         },
         {
@@ -5961,7 +5961,7 @@
                 "price": 359900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 359900.00€ hasta 359900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/iekdm0i5447jhy9w7u7xg/AFBpzgXwffp8mQmyNIe0_8o?rlkey=ecvxladly9xxlrprvmsjo7135&st=v19n99pf&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 359900.00€ hasta 359900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/iekdm0i5447jhy9w7u7xg/AFBpzgXwffp8mQmyNIe0_8o?rlkey=ecvxladly9xxlrprvmsjo7135&st=v19n99pf&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/k5HPRzcYG7zvnhFuGrTpUg57pQXrdvMdPO7OApzj.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6235,7 +6235,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:43+00:00"
+                "updatedAt": "2026-09-13T06:15:44+00:00"
             }
         },
         {
@@ -6251,7 +6251,7 @@
                 "price": 289900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 4 unidades — precios desde 289900.00€ hasta 314900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/psxcmx9szob3vlwa0bg0v/ACjrgXJo6xQCi5ySAQpn9d0?rlkey=cjzbesiyczxv8manw7wrl1h9p&st=gb7jfqrg&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 4 unidades — precios desde 289900.00€ hasta 314900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/psxcmx9szob3vlwa0bg0v/ACjrgXJo6xQCi5ySAQpn9d0?rlkey=cjzbesiyczxv8manw7wrl1h9p&st=gb7jfqrg&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/8eE8FkX5fsSjQz1NSYRJMjkTh653VUpdag1Ztlfq.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6388,7 +6388,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:45+00:00"
+                "updatedAt": "2026-09-13T06:15:47+00:00"
             }
         },
         {
@@ -6404,7 +6404,7 @@
                 "price": 949900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 949900.00€ hasta 949900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 949900.00€ hasta 949900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/UKfJqYORrJLZtqjKob5XJjUuFKLTzwXdAAw6vGwi.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6581,7 +6581,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:47+00:00"
+                "updatedAt": "2026-09-13T06:15:49+00:00"
             }
         },
         {
@@ -6597,7 +6597,7 @@
                 "price": 314900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 3 unidades — precios desde 314900.00€ hasta 329900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ll5zmnye6ez4b8ip5rgua/AFWdNHxwSa-3wbm0viCnsfA?rlkey=wsa9y6be834eltyegqvfpnyqd&st=saaijkpp&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 3 unidades — precios desde 314900.00€ hasta 329900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ll5zmnye6ez4b8ip5rgua/AFWdNHxwSa-3wbm0viCnsfA?rlkey=wsa9y6be834eltyegqvfpnyqd&st=saaijkpp&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/udOcwLqt7La4KLspXWlqDbWsGU2iemxMbIjCun86.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6710,7 +6710,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:49+00:00"
+                "updatedAt": "2026-09-13T06:15:51+00:00"
             }
         },
         {
@@ -6726,7 +6726,7 @@
                 "price": 168900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 168900.00€ hasta 168900.00€. Dormitorios: 1. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/uvx2zvrx1etsbfwznio2l/AKck0F2nbsXYuQRlmfSN3WY?rlkey=py0u4i5rr7xfagt1le96oypbd&st=s1n2099k&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 168900.00€ hasta 168900.00€. Dormitorios: 1. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/uvx2zvrx1etsbfwznio2l/AKck0F2nbsXYuQRlmfSN3WY?rlkey=py0u4i5rr7xfagt1le96oypbd&st=s1n2099k&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/JxeA2evQS8dY6oDZQiyhL7GsUwXJ52hwkffpPuIu.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6959,7 +6959,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:51+00:00"
+                "updatedAt": "2026-09-13T06:15:53+00:00"
             }
         },
         {
@@ -6975,7 +6975,7 @@
                 "price": 409900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 7 unidades — precios desde 409900.00€ hasta 599900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/5yiu5e3sdqysl54uglj3f/AGfj_B3zRfF7P4jcgaeDq3k?rlkey=cqfbmu9khmwgm8utj7adx2ulj&st=b93j20kh&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 7 unidades — precios desde 409900.00€ hasta 599900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/5yiu5e3sdqysl54uglj3f/AGfj_B3zRfF7P4jcgaeDq3k?rlkey=cqfbmu9khmwgm8utj7adx2ulj&st=b93j20kh&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1758452923.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -7297,7 +7297,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:53+00:00"
+                "updatedAt": "2026-09-13T06:15:55+00:00"
             }
         },
         {
@@ -7313,7 +7313,7 @@
                 "price": 330000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 330000.00€ hasta 330000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qwg9w90443d6oko21fmus/ALQ0HR2P9x-o53rY49LHhMM?rlkey=72zzi4ukc2x6ru8hi2h3ydy7j&st=kzubrt0a&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 330000.00€ hasta 330000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qwg9w90443d6oko21fmus/ALQ0HR2P9x-o53rY49LHhMM?rlkey=72zzi4ukc2x6ru8hi2h3ydy7j&st=kzubrt0a&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1756373608.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -7494,7 +7494,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:55+00:00"
+                "updatedAt": "2026-09-13T06:15:57+00:00"
             }
         },
         {
@@ -7510,7 +7510,7 @@
                 "price": 369900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 4 unidades — precios desde 369900.00€ hasta 409900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/klbdqwy7aapjr5wkbopmp/ABf8kTQGznisOfdygIQK_sY?rlkey=lfdx6emm3pt9ljywxbz88w2wa&st=l94cudc6&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 4 unidades — precios desde 369900.00€ hasta 409900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/klbdqwy7aapjr5wkbopmp/ABf8kTQGznisOfdygIQK_sY?rlkey=lfdx6emm3pt9ljywxbz88w2wa&st=l94cudc6&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1752480406.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -7751,7 +7751,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:15:58+00:00"
+                "updatedAt": "2026-09-13T06:15:59+00:00"
             }
         },
         {
@@ -7767,7 +7767,7 @@
                 "price": 249000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 32 unidades — precios desde 249000.00€ hasta 599000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ti09nxoa8bx62i6yw1b37/AIRbV2PFwtGFbLyy8exZHH0?rlkey=pbolnb52p9hjrqlpe6a6zz5di&st=8yulve0e&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 32 unidades — precios desde 249000.00€ hasta 599000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ti09nxoa8bx62i6yw1b37/AIRbV2PFwtGFbLyy8exZHH0?rlkey=pbolnb52p9hjrqlpe6a6zz5di&st=8yulve0e&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747297717.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -8652,7 +8652,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:00+00:00"
+                "updatedAt": "2026-09-13T06:16:02+00:00"
             }
         },
         {
@@ -8668,7 +8668,7 @@
                 "price": 479900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 479900.00€ hasta 479900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/35zsf81x88l1fh0zn4dxu/AIWOaZ6Vng1LRuo5lnjWkvQ?rlkey=zn6ow1pcud2jxtczfpx7ep6ni&st=lk4myqhh&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 479900.00€ hasta 479900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/35zsf81x88l1fh0zn4dxu/AIWOaZ6Vng1LRuo5lnjWkvQ?rlkey=zn6ow1pcud2jxtczfpx7ep6ni&st=lk4myqhh&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1746794757.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -8886,7 +8886,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:02+00:00"
+                "updatedAt": "2026-09-13T06:16:04+00:00"
             }
         },
         {
@@ -8902,7 +8902,7 @@
                 "price": 284900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 3 unidades — precios desde 284900.00€ hasta 344900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pv17getmp8m5vniwjeku7/APxmT-RlykU_B0h7v8e99j8?rlkey=g4zhjoxb6jd38nanlhynp26ve&st=pmfaecfk&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 3 unidades — precios desde 284900.00€ hasta 344900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pv17getmp8m5vniwjeku7/APxmT-RlykU_B0h7v8e99j8?rlkey=g4zhjoxb6jd38nanlhynp26ve&st=pmfaecfk&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747133099.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -9203,7 +9203,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:05+00:00"
+                "updatedAt": "2026-09-13T06:16:06+00:00"
             }
         },
         {
@@ -9219,7 +9219,7 @@
                 "price": 869900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 869900.00€ hasta 869900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/x5chffk79vp5jlctzpmzk/AIPrSKPdZ4mOek_mikAvowk?rlkey=oo5hn6arv4zwglk9r2qakw7e3&st=ghe2we3j&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 869900.00€ hasta 869900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/x5chffk79vp5jlctzpmzk/AIPrSKPdZ4mOek_mikAvowk?rlkey=oo5hn6arv4zwglk9r2qakw7e3&st=ghe2we3j&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747132248.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -9589,7 +9589,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:07+00:00"
+                "updatedAt": "2026-09-13T06:16:09+00:00"
             }
         },
         {
@@ -9605,7 +9605,7 @@
                 "price": 267000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 12 unidades — precios desde 267000.00€ hasta 509000.00€. Dormitorios: 2-4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qemlzns9r5c04hm2ma2s8/AJLhGg-5nPrWoZiBOfJ8OPM?rlkey=cv8tvq3tk43fq2gpockopacyw&st=selal8ga&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 12 unidades — precios desde 267000.00€ hasta 509000.00€. Dormitorios: 2-4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qemlzns9r5c04hm2ma2s8/AJLhGg-5nPrWoZiBOfJ8OPM?rlkey=cv8tvq3tk43fq2gpockopacyw&st=selal8ga&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747132303.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10098,7 +10098,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:09+00:00"
+                "updatedAt": "2026-09-13T06:16:11+00:00"
             }
         },
         {
@@ -10114,7 +10114,7 @@
                 "price": 374900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 4 unidades — precios desde 374900.00€ hasta 424900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/gcovuk3m2qizxgbnprf5p/ADwe444hAmCERgcZ8rZ85G8?rlkey=nfb1dgg2wc08xebfs0skthow4&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 4 unidades — precios desde 374900.00€ hasta 424900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/gcovuk3m2qizxgbnprf5p/ADwe444hAmCERgcZ8rZ85G8?rlkey=nfb1dgg2wc08xebfs0skthow4&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747133049.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10355,7 +10355,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:12+00:00"
+                "updatedAt": "2026-09-13T06:16:13+00:00"
             }
         },
         {
@@ -10371,7 +10371,7 @@
                 "price": 674500,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 674500.00€ hasta 674500.00€. Dormitorios: 4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/dqkw3x97r049xef/AABGGax0cqAm0IxV1iezsjYua?dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 674500.00€ hasta 674500.00€. Dormitorios: 4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/dqkw3x97r049xef/AABGGax0cqAm0IxV1iezsjYua?dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747131324.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10560,7 +10560,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:14+00:00"
+                "updatedAt": "2026-09-13T06:16:16+00:00"
             }
         },
         {
@@ -10576,7 +10576,7 @@
                 "price": 238000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 4 unidades — precios desde 238000.00€ hasta 259000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pd72kkxcziyp54c95zszv/h?rlkey=v863ronpie6biqdqdyk8zfbsd&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 4 unidades — precios desde 238000.00€ hasta 259000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pd72kkxcziyp54c95zszv/h?rlkey=v863ronpie6biqdqdyk8zfbsd&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785144838_3%20copy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10785,7 +10785,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:16+00:00"
+                "updatedAt": "2026-09-13T06:16:18+00:00"
             }
         },
         {
@@ -10801,7 +10801,7 @@
                 "price": 435000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 435000.00€ hasta 435000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/l4y3a34n80rkhyg/AAAfjB5J5RGH8LDJwbv2FBt4a?dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 435000.00€ hasta 435000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/l4y3a34n80rkhyg/AAAfjB5J5RGH8LDJwbv2FBt4a?dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1781253864_1.jpeg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10938,7 +10938,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:19+00:00"
+                "updatedAt": "2026-09-13T06:16:20+00:00"
             }
         },
         {
@@ -10954,7 +10954,7 @@
                 "price": 416900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 416900.00€ hasta 416900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 416900.00€ hasta 416900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1784884938_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -11235,7 +11235,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:20+00:00"
+                "updatedAt": "2026-09-13T06:16:22+00:00"
             }
         },
         {
@@ -11251,7 +11251,7 @@
                 "price": 419900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 12-09-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/2r34t92zkl9hoicayiyy8/ABv94M3O-yW9dse3iOiCLXc?rlkey=3scevi16bs2xn3xessfsztjgr&st=a6nvk0jc&dl=0",
+                "additionalInfo": "Disponibilidad al 13-09-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/2r34t92zkl9hoicayiyy8/ABv94M3O-yW9dse3iOiCLXc?rlkey=3scevi16bs2xn3xessfsztjgr&st=a6nvk0jc&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1750151496.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -11581,7 +11581,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-09-12T06:16:23+00:00"
+                "updatedAt": "2026-09-13T06:16:25+00:00"
             }
         }
     ],
