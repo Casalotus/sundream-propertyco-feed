@@ -1,7 +1,7 @@
 {
     "source": "propertyco.es/agencias",
     "developer": "PROPERTY Y CONSULTING OFFICE",
-    "generated_at": "2026-11-16T06:16:16+00:00",
+    "generated_at": "2026-11-17T06:16:13+00:00",
     "target_artifact": "https://claude.ai/code/artifact/dfa8038d-cd21-4b17-8a76-f175ce0a1623",
     "target_collection": "products",
     "products": [
@@ -18,7 +18,7 @@
                 "price": 339900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 8 unidades — precios desde 339900.00€ hasta 362900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 8 unidades — precios desde 339900.00€ hasta 362900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1793101093_Exterior.jpeg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -179,7 +179,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:05+00:00"
+                "updatedAt": "2026-11-17T06:15:05+00:00"
             }
         },
         {
@@ -195,7 +195,7 @@
                 "price": 179000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 2 unidades — precios desde 179000.00€ hasta 239000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 2 unidades — precios desde 179000.00€ hasta 239000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1794401473_Altoal%20Beach%202%20fachada.jpeg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -319,7 +319,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:07+00:00"
+                "updatedAt": "2026-11-17T06:15:07+00:00"
             }
         },
         {
@@ -335,7 +335,7 @@
                 "price": 295900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 2 unidades — precios desde 295900.00€ hasta 295900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 2 unidades — precios desde 295900.00€ hasta 295900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1792568499_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -424,7 +424,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:08+00:00"
+                "updatedAt": "2026-11-17T06:15:09+00:00"
             }
         },
         {
@@ -435,12 +435,12 @@
                 "location": "San Pedro del Pinatar",
                 "type": "Villas",
                 "status": "Disponible",
-                "beds": 2,
-                "units": 2,
-                "price": 379900,
+                "beds": 3,
+                "units": 1,
+                "price": 409900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 2 unidades — precios desde 379900.00€ hasta 379900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 409900.00€ hasta 409900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1792402391_resi%20Bruselas.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -461,14 +461,14 @@
                         "floor": "",
                         "beds": 2,
                         "price": 379900,
-                        "status": "disponible"
+                        "status": "vendida"
                     },
                     {
                         "code": "N. 3",
                         "type": "Villas",
                         "floor": "",
                         "beds": 3,
-                        "price": 379900,
+                        "price": 409900,
                         "status": "disponible"
                     }
                 ],
@@ -486,10 +486,6 @@
                         {
                             "label": "Plano de Venta - Plantas.png",
                             "url": "https://api.propertyco.es/api/storage/r2/promociones/135/plano/plano-de-venta-plantas_1792146580_pIHx5C.png"
-                        },
-                        {
-                            "label": "v.2.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/135/plano/v2_1792156070_oAIz4y.png"
                         },
                         {
                             "label": "v.3.png",
@@ -577,7 +573,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:10+00:00"
+                "updatedAt": "2026-11-17T06:15:10+00:00"
             }
         },
         {
@@ -593,7 +589,7 @@
                 "price": 180000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 90 unidades — precios desde 180000.00€ hasta 500000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 90 unidades — precios desde 180000.00€ hasta 500000.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1784013096_A%C3%A9rea%20desde%20el%20mar%20-%205K.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -1870,7 +1866,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:12+00:00"
+                "updatedAt": "2026-11-17T06:15:12+00:00"
             }
         },
         {
@@ -1886,7 +1882,7 @@
                 "price": 379000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 7 unidades — precios desde 379000.00€ hasta 420000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://propertyco.es/preview/hYCrzsZB",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 7 unidades — precios desde 379000.00€ hasta 420000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://propertyco.es/preview/hYCrzsZB",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785229443_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2063,7 +2059,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:14+00:00"
+                "updatedAt": "2026-11-17T06:15:14+00:00"
             }
         },
         {
@@ -2079,7 +2075,7 @@
                 "price": 268900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 8 unidades — precios desde 268900.00€ hasta 282900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 8 unidades — precios desde 268900.00€ hasta 282900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785145112_3%20copy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2259,7 +2255,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:16+00:00"
+                "updatedAt": "2026-11-17T06:15:16+00:00"
             }
         },
         {
@@ -2275,7 +2271,7 @@
                 "price": 274900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 8 unidades — precios desde 274900.00€ hasta 329900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 8 unidades — precios desde 274900.00€ hasta 329900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1781094540_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2508,7 +2504,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:18+00:00"
+                "updatedAt": "2026-11-17T06:15:18+00:00"
             }
         },
         {
@@ -2524,7 +2520,7 @@
                 "price": 282400,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 3 unidades — precios desde 282400.00€ hasta 287400.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 3 unidades — precios desde 282400.00€ hasta 287400.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1780912826_Captura%20de%20pantalla%202026-06-08%20115952.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2668,7 +2664,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:19+00:00"
+                "updatedAt": "2026-11-17T06:15:19+00:00"
             }
         },
         {
@@ -2684,7 +2680,7 @@
                 "price": 376500,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 376500.00€ hasta 376500.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 376500.00€ hasta 376500.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1778155045_3.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2760,7 +2756,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:21+00:00"
+                "updatedAt": "2026-11-17T06:15:21+00:00"
             }
         },
         {
@@ -2776,7 +2772,7 @@
                 "price": 595000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 3 unidades — precios desde 595000.00€ hasta 652000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 3 unidades — precios desde 595000.00€ hasta 652000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776431563_Captura%20de%20pantalla%202026-04-17%20151026.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -2929,7 +2925,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:23+00:00"
+                "updatedAt": "2026-11-17T06:15:23+00:00"
             }
         },
         {
@@ -2945,7 +2941,7 @@
                 "price": 151900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 15 unidades — precios desde 151900.00€ hasta 248900.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 15 unidades — precios desde 151900.00€ hasta 248900.00€. Dormitorios: 1-2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776932862_Captura%20de%20pantalla%202026-04-23%20102709.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3462,7 +3458,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:25+00:00"
+                "updatedAt": "2026-11-17T06:15:25+00:00"
             }
         },
         {
@@ -3478,7 +3474,7 @@
                 "price": 231900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 8 unidades — precios desde 231900.00€ hasta 249900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 8 unidades — precios desde 231900.00€ hasta 249900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776600586_VILLAGE.PNG",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3699,7 +3695,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:26+00:00"
+                "updatedAt": "2026-11-17T06:15:26+00:00"
             }
         },
         {
@@ -3715,7 +3711,7 @@
                 "price": 289900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 289900.00€ hasta 289900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 289900.00€ hasta 289900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1776346274_Captura%20de%20pantalla%202026-04-16%20153055.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -3948,7 +3944,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:28+00:00"
+                "updatedAt": "2026-11-17T06:15:28+00:00"
             }
         },
         {
@@ -3964,7 +3960,7 @@
                 "price": 278900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 14 unidades — precios desde 278900.00€ hasta 399900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 14 unidades — precios desde 278900.00€ hasta 399900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1774025386_Torre.PNG",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -4473,7 +4469,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:30+00:00"
+                "updatedAt": "2026-11-17T06:15:30+00:00"
             }
         },
         {
@@ -4489,7 +4485,7 @@
                 "price": 319900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 5 unidades — precios desde 319900.00€ hasta 344900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/w3y535hroy7wqwox24scq/AFSycVT7KmI5VnKcI3P6IGY?rlkey=quz3nhawgweutll1zsf3ki0zg&st=wgl6ybnv&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 5 unidades — precios desde 319900.00€ hasta 344900.00€. Dormitorios: 2. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/w3y535hroy7wqwox24scq/AFSycVT7KmI5VnKcI3P6IGY?rlkey=quz3nhawgweutll1zsf3ki0zg&st=wgl6ybnv&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1773218440_Captura%20de%20pantalla%202026-03-11%20093400.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -4626,7 +4622,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:32+00:00"
+                "updatedAt": "2026-11-17T06:15:32+00:00"
             }
         },
         {
@@ -4642,21 +4638,13 @@
                 "price": 229900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 28 unidades — precios desde 229900.00€ hasta 309400.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/mxx0iznwgyk269thsahsn/AABIKID7gdsY4XYx3O5kEvU?rlkey=fqslanzyshvzrptnj5bk13tma&st=ttrqr78r&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 28 unidades — precios desde 229900.00€ hasta 309400.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/mxx0iznwgyk269thsahsn/AABIKID7gdsY4XYx3O5kEvU?rlkey=fqslanzyshvzrptnj5bk13tma&st=ttrqr78r&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1759674400.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
                 "promotorPhone": "606 006 893",
                 "keyReady": false,
                 "unitList": [
-                    {
-                        "code": "11",
-                        "type": "Apartments",
-                        "floor": "First Floor",
-                        "beds": 2,
-                        "price": 226900,
-                        "status": "vendida"
-                    },
                     {
                         "code": "8",
                         "type": "Apartments",
@@ -4666,12 +4654,12 @@
                         "status": "vendida"
                     },
                     {
-                        "code": "10",
+                        "code": "11",
                         "type": "Apartments",
                         "floor": "First Floor",
                         "beds": 2,
-                        "price": 229900,
-                        "status": "disponible"
+                        "price": 226900,
+                        "status": "vendida"
                     },
                     {
                         "code": "9",
@@ -4682,7 +4670,15 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "63",
+                        "code": "10",
+                        "type": "Apartments",
+                        "floor": "First Floor",
+                        "beds": 2,
+                        "price": 229900,
+                        "status": "disponible"
+                    },
+                    {
+                        "code": "62",
                         "type": "Apartments",
                         "floor": "First Floor",
                         "beds": 2,
@@ -4706,7 +4702,7 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "62",
+                        "code": "63",
                         "type": "Apartments",
                         "floor": "First Floor",
                         "beds": 2,
@@ -4722,7 +4718,7 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "5",
+                        "code": "4",
                         "type": "Apartments",
                         "floor": "Ground Floor",
                         "beds": 2,
@@ -4730,7 +4726,7 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "4",
+                        "code": "5",
                         "type": "Apartments",
                         "floor": "Ground Floor",
                         "beds": 2,
@@ -4742,7 +4738,7 @@
                         "type": "Apartments",
                         "floor": "First Floor",
                         "beds": 3,
-                        "price": 254900,
+                        "price": 253900,
                         "status": "disponible"
                     },
                     {
@@ -4762,14 +4758,6 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "59",
-                        "type": "Apartments",
-                        "floor": "Ground Floor",
-                        "beds": 2,
-                        "price": 260900,
-                        "status": "disponible"
-                    },
-                    {
                         "code": "58",
                         "type": "Apartments",
                         "floor": "Ground Floor",
@@ -4778,11 +4766,11 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "2",
+                        "code": "59",
                         "type": "Apartments",
                         "floor": "Ground Floor",
-                        "beds": 3,
-                        "price": 267900,
+                        "beds": 2,
+                        "price": 260900,
                         "status": "disponible"
                     },
                     {
@@ -4792,6 +4780,14 @@
                         "beds": 3,
                         "price": 267900,
                         "status": "bloqueada"
+                    },
+                    {
+                        "code": "2",
+                        "type": "Apartments",
+                        "floor": "Ground Floor",
+                        "beds": 3,
+                        "price": 267900,
+                        "status": "disponible"
                     },
                     {
                         "code": "56",
@@ -4818,12 +4814,36 @@
                         "status": "disponible"
                     },
                     {
+                        "code": "17",
+                        "type": "Apartments",
+                        "floor": "Top Floor",
+                        "beds": 2,
+                        "price": 280900,
+                        "status": "disponible"
+                    },
+                    {
                         "code": "16",
                         "type": "Apartments",
                         "floor": "Top Floor",
                         "beds": 2,
                         "price": 280900,
                         "status": "bloqueada"
+                    },
+                    {
+                        "code": "15",
+                        "type": "Apartments",
+                        "floor": "Top Floor",
+                        "beds": 2,
+                        "price": 280900,
+                        "status": "disponible"
+                    },
+                    {
+                        "code": "14",
+                        "type": "Apartments",
+                        "floor": "Top Floor",
+                        "beds": 2,
+                        "price": 280900,
+                        "status": "disponible"
                     },
                     {
                         "code": "1",
@@ -4839,6 +4859,14 @@
                         "floor": "Ground Floor",
                         "beds": 3,
                         "price": 285400,
+                        "status": "disponible"
+                    },
+                    {
+                        "code": "71",
+                        "type": "Apartments",
+                        "floor": "Top Floor",
+                        "beds": 2,
+                        "price": 286900,
                         "status": "disponible"
                     },
                     {
@@ -4866,42 +4894,10 @@
                         "status": "disponible"
                     },
                     {
-                        "code": "71",
-                        "type": "Apartments",
-                        "floor": "Top Floor",
-                        "beds": 2,
-                        "price": 286900,
-                        "status": "disponible"
-                    },
-                    {
                         "code": "18",
                         "type": "Apartments",
                         "floor": "Top Floor",
                         "beds": 3,
-                        "price": 300900,
-                        "status": "disponible"
-                    },
-                    {
-                        "code": "17",
-                        "type": "Apartments",
-                        "floor": "Top Floor",
-                        "beds": 2,
-                        "price": 300900,
-                        "status": "disponible"
-                    },
-                    {
-                        "code": "15",
-                        "type": "Apartments",
-                        "floor": "Top Floor",
-                        "beds": 2,
-                        "price": 300900,
-                        "status": "disponible"
-                    },
-                    {
-                        "code": "14",
-                        "type": "Apartments",
-                        "floor": "Top Floor",
-                        "beds": 2,
                         "price": 300900,
                         "status": "disponible"
                     },
@@ -4914,20 +4910,20 @@
                         "status": "vendida"
                     },
                     {
+                        "code": "13",
+                        "type": "Apartments",
+                        "floor": "Top Floor",
+                        "beds": 3,
+                        "price": 303900,
+                        "status": "disponible"
+                    },
+                    {
                         "code": "67",
                         "type": "Apartments",
                         "floor": "Top Floor",
                         "beds": 3,
                         "price": 305900,
                         "status": "vendida"
-                    },
-                    {
-                        "code": "13",
-                        "type": "Apartments",
-                        "floor": "Top Floor",
-                        "beds": 3,
-                        "price": 306900,
-                        "status": "disponible"
                     },
                     {
                         "code": "55",
@@ -5182,20 +5178,20 @@
                     "permisos": [],
                     "calidades": [
                         {
-                            "label": "EN - Quality List - Residencial Natura.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/91/memoria/en-quality-list-residencial-natura_1794581290_ApXpBi.pdf"
-                        },
-                        {
                             "label": "ES - Memoria de Calidades Residencial Natura.pdf",
                             "url": "https://api.propertyco.es/api/storage/r2/promociones/91/memoria/es-memoria-de-calidades-residencial-natura_1794581300_U0c3k0.pdf"
                         },
                         {
                             "label": "FR- Residencial Natura San Cayetano.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/91/memoria/fr-residencial-natura-san-cayetano_1794581305_qnKttk.pdf"
+                            "url": "https://api.propertyco.es/api/storage/r2/promociones/91/memoria/fr-residencial-natura-san-cayetano_1794827671_6PNJKn.pdf"
+                        },
+                        {
+                            "label": "EN - Quality List - Residencial Natura.pdf",
+                            "url": "https://api.propertyco.es/api/storage/r2/promociones/91/memoria/en-quality-list-residencial-natura_1794827676_5KS7on.pdf"
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:34+00:00"
+                "updatedAt": "2026-11-17T06:15:34+00:00"
             }
         },
         {
@@ -5211,7 +5207,7 @@
                 "price": 275900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 11 unidades — precios desde 275900.00€ hasta 328900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 11 unidades — precios desde 275900.00€ hasta 328900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/Ym05UoSmeZ8ZPIBIHErJCcXVjoSXi2aiLc30qaTF.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5601,7 +5597,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:36+00:00"
+                "updatedAt": "2026-11-17T06:15:36+00:00"
             }
         },
         {
@@ -5617,7 +5613,7 @@
                 "price": 291500,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 12 unidades — precios desde 291500.00€ hasta 393500.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/9c554e8z27o3uqgat5yft/AHoo_7bbqFdeXAkt8NK7glU?rlkey=8mnw5pnxkzgc8tir663a7rytt&st=37zgjmao&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 12 unidades — precios desde 291500.00€ hasta 393500.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/9c554e8z27o3uqgat5yft/AHoo_7bbqFdeXAkt8NK7glU?rlkey=8mnw5pnxkzgc8tir663a7rytt&st=37zgjmao&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/xMyrEmWaT8OklhTmixdm6507MDcDbtk4RjKjwFuy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -5894,7 +5890,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:38+00:00"
+                "updatedAt": "2026-11-17T06:15:39+00:00"
             }
         },
         {
@@ -5910,7 +5906,7 @@
                 "price": 259900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 4 unidades — precios desde 259900.00€ hasta 269900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/rqwo12pi2wpergcqrum5s/AJxN2bOQ_9HUIroVXCUi1wU?rlkey=26c8rwqaksrxphboej1g2two7&st=epx3e0s0&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 4 unidades — precios desde 259900.00€ hasta 269900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/rqwo12pi2wpergcqrum5s/AJxN2bOQ_9HUIroVXCUi1wU?rlkey=26c8rwqaksrxphboej1g2two7&st=epx3e0s0&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/gPTcBVDZUuvKDVrwCU0pCTHMDTc6OXgKrP6fHEdN.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6051,7 +6047,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:40+00:00"
+                "updatedAt": "2026-11-17T06:15:41+00:00"
             }
         },
         {
@@ -6067,7 +6063,7 @@
                 "price": 359900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 2 unidades — precios desde 359900.00€ hasta 464900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/iekdm0i5447jhy9w7u7xg/AFBpzgXwffp8mQmyNIe0_8o?rlkey=ecvxladly9xxlrprvmsjo7135&st=v19n99pf&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 2 unidades — precios desde 359900.00€ hasta 464900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/iekdm0i5447jhy9w7u7xg/AFBpzgXwffp8mQmyNIe0_8o?rlkey=ecvxladly9xxlrprvmsjo7135&st=v19n99pf&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/k5HPRzcYG7zvnhFuGrTpUg57pQXrdvMdPO7OApzj.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6340,7 +6336,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:42+00:00"
+                "updatedAt": "2026-11-17T06:15:43+00:00"
             }
         },
         {
@@ -6356,7 +6352,7 @@
                 "price": 279900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 5 unidades — precios desde 279900.00€ hasta 299900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/psxcmx9szob3vlwa0bg0v/ACjrgXJo6xQCi5ySAQpn9d0?rlkey=cjzbesiyczxv8manw7wrl1h9p&st=gb7jfqrg&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 5 unidades — precios desde 279900.00€ hasta 299900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/psxcmx9szob3vlwa0bg0v/ACjrgXJo6xQCi5ySAQpn9d0?rlkey=cjzbesiyczxv8manw7wrl1h9p&st=gb7jfqrg&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/8eE8FkX5fsSjQz1NSYRJMjkTh653VUpdag1Ztlfq.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6497,7 +6493,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:44+00:00"
+                "updatedAt": "2026-11-17T06:15:45+00:00"
             }
         },
         {
@@ -6513,7 +6509,7 @@
                 "price": 314900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 3 unidades — precios desde 314900.00€ hasta 329900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ll5zmnye6ez4b8ip5rgua/AFWdNHxwSa-3wbm0viCnsfA?rlkey=wsa9y6be834eltyegqvfpnyqd&st=saaijkpp&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 3 unidades — precios desde 314900.00€ hasta 329900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ll5zmnye6ez4b8ip5rgua/AFWdNHxwSa-3wbm0viCnsfA?rlkey=wsa9y6be834eltyegqvfpnyqd&st=saaijkpp&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/udOcwLqt7La4KLspXWlqDbWsGU2iemxMbIjCun86.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6626,7 +6622,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:47+00:00"
+                "updatedAt": "2026-11-17T06:15:47+00:00"
             }
         },
         {
@@ -6642,7 +6638,7 @@
                 "price": 168900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 2 unidades — precios desde 168900.00€ hasta 168900.00€. Dormitorios: 1. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/uvx2zvrx1etsbfwznio2l/AKck0F2nbsXYuQRlmfSN3WY?rlkey=py0u4i5rr7xfagt1le96oypbd&st=s1n2099k&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 2 unidades — precios desde 168900.00€ hasta 168900.00€. Dormitorios: 1. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/uvx2zvrx1etsbfwznio2l/AKck0F2nbsXYuQRlmfSN3WY?rlkey=py0u4i5rr7xfagt1le96oypbd&st=s1n2099k&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/JxeA2evQS8dY6oDZQiyhL7GsUwXJ52hwkffpPuIu.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -6866,16 +6862,8 @@
                     "permisos": [],
                     "calidades": [
                         {
-                            "label": "EN - QUALITY LIST HORIZON SUITES.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/92/memoria/en-quality-list-horizon-suites_1779087238_DGsjjX.pdf"
-                        },
-                        {
                             "label": "ES - MEMORIA DE CALIDADES HORIZON SUITES.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/92/memoria/es-memoria-de-calidades-horizon-suites_1779087239_aURTNC.pdf"
-                        },
-                        {
-                            "label": "FR- MÉMOIRE DES QUALITÉS HORIZON SUITES.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/92/memoria/fr-memoire-des-qualites-horizon-suites_1779087239_QYARMX.pdf"
+                            "url": "https://api.propertyco.es/api/storage/r2/promociones/92/memoria/es-memoria-de-calidades-horizon-suites_1794825513_2o7vm8.pdf"
                         },
                         {
                             "label": "INVENTARIO HORIZON SUITES.pdf",
@@ -6883,7 +6871,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:49+00:00"
+                "updatedAt": "2026-11-17T06:15:49+00:00"
             }
         },
         {
@@ -6899,7 +6887,7 @@
                 "price": 409900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 7 unidades — precios desde 409900.00€ hasta 599900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/5yiu5e3sdqysl54uglj3f/AGfj_B3zRfF7P4jcgaeDq3k?rlkey=cqfbmu9khmwgm8utj7adx2ulj&st=b93j20kh&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 7 unidades — precios desde 409900.00€ hasta 599900.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/5yiu5e3sdqysl54uglj3f/AGfj_B3zRfF7P4jcgaeDq3k?rlkey=cqfbmu9khmwgm8utj7adx2ulj&st=b93j20kh&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1758452923.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -7221,7 +7209,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:51+00:00"
+                "updatedAt": "2026-11-17T06:15:51+00:00"
             }
         },
         {
@@ -7237,7 +7225,7 @@
                 "price": 369900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 4 unidades — precios desde 369900.00€ hasta 409900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/klbdqwy7aapjr5wkbopmp/ABf8kTQGznisOfdygIQK_sY?rlkey=lfdx6emm3pt9ljywxbz88w2wa&st=l94cudc6&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 4 unidades — precios desde 369900.00€ hasta 409900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/klbdqwy7aapjr5wkbopmp/ABf8kTQGznisOfdygIQK_sY?rlkey=lfdx6emm3pt9ljywxbz88w2wa&st=l94cudc6&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1752480406.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -7478,7 +7466,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:53+00:00"
+                "updatedAt": "2026-11-17T06:15:53+00:00"
             }
         },
         {
@@ -7494,7 +7482,7 @@
                 "price": 249000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 31 unidades — precios desde 249000.00€ hasta 599000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ti09nxoa8bx62i6yw1b37/AIRbV2PFwtGFbLyy8exZHH0?rlkey=pbolnb52p9hjrqlpe6a6zz5di&st=8yulve0e&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 31 unidades — precios desde 249000.00€ hasta 599000.00€. Dormitorios: 2-3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/ti09nxoa8bx62i6yw1b37/AIRbV2PFwtGFbLyy8exZHH0?rlkey=pbolnb52p9hjrqlpe6a6zz5di&st=8yulve0e&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747297717.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -8367,7 +8355,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:55+00:00"
+                "updatedAt": "2026-11-17T06:15:55+00:00"
             }
         },
         {
@@ -8383,7 +8371,7 @@
                 "price": 484900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 484900.00€ hasta 484900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/35zsf81x88l1fh0zn4dxu/AIWOaZ6Vng1LRuo5lnjWkvQ?rlkey=zn6ow1pcud2jxtczfpx7ep6ni&st=lk4myqhh&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 484900.00€ hasta 484900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/35zsf81x88l1fh0zn4dxu/AIWOaZ6Vng1LRuo5lnjWkvQ?rlkey=zn6ow1pcud2jxtczfpx7ep6ni&st=lk4myqhh&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1746794757.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -8605,7 +8593,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:15:58+00:00"
+                "updatedAt": "2026-11-17T06:15:57+00:00"
             }
         },
         {
@@ -8621,7 +8609,7 @@
                 "price": 344900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 344900.00€ hasta 344900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pv17getmp8m5vniwjeku7/APxmT-RlykU_B0h7v8e99j8?rlkey=g4zhjoxb6jd38nanlhynp26ve&st=pmfaecfk&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 344900.00€ hasta 344900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pv17getmp8m5vniwjeku7/APxmT-RlykU_B0h7v8e99j8?rlkey=g4zhjoxb6jd38nanlhynp26ve&st=pmfaecfk&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747133099.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -8838,393 +8826,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:00+00:00"
-            }
-        },
-        {
-            "id": "levansur-home-seven",
-            "data": {
-                "name": "LEVANSUR HOME SEVEN",
-                "region": "Murcia",
-                "location": "Santa Rosalía",
-                "type": "Villas",
-                "status": "Disponible",
-                "beds": 3,
-                "units": 1,
-                "price": 869900,
-                "address": "",
-                "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 869900.00€ hasta 869900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/x5chffk79vp5jlctzpmzk/AIPrSKPdZ4mOek_mikAvowk?rlkey=oo5hn6arv4zwglk9r2qakw7e3&st=ghe2we3j&dl=0",
-                "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747132248.png",
-                "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
-                "promotorEmail": "hola@propertyandconsultingoffice.com",
-                "promotorPhone": "606 006 893",
-                "keyReady": false,
-                "unitList": [
-                    {
-                        "code": "3",
-                        "type": "Villas",
-                        "floor": "",
-                        "beds": 3,
-                        "price": 829000,
-                        "status": "vendida"
-                    },
-                    {
-                        "code": "2",
-                        "type": "Villas",
-                        "floor": "",
-                        "beds": 5,
-                        "price": 849900,
-                        "status": "vendida"
-                    },
-                    {
-                        "code": "4",
-                        "type": "Villas",
-                        "floor": "",
-                        "beds": 3,
-                        "price": 850000,
-                        "status": "vendida"
-                    },
-                    {
-                        "code": "1",
-                        "type": "Villas",
-                        "floor": "",
-                        "beds": 3,
-                        "price": 869900,
-                        "status": "disponible"
-                    }
-                ],
-                "media": {
-                    "fotos": [
-                        {
-                            "label": "1.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/1_1773064758_r5IpsK.jpg"
-                        },
-                        {
-                            "label": "2.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/2_1773064762_rTxAxN.jpg"
-                        },
-                        {
-                            "label": "3.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/3_1773064764_unchdo.jpg"
-                        },
-                        {
-                            "label": "4.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/4_1773064767_6QegBC.jpg"
-                        },
-                        {
-                            "label": "5.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/5_1773064770_7OiTgW.jpg"
-                        },
-                        {
-                            "label": "6.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/6_1773064773_lyDRYM.jpg"
-                        },
-                        {
-                            "label": "7.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/7_1773064775_I4mDSM.jpg"
-                        },
-                        {
-                            "label": "8.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/8_1773064778_qLFdcx.jpg"
-                        },
-                        {
-                            "label": "9.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/9_1773064781_DpkUEV.jpg"
-                        },
-                        {
-                            "label": "10.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/10_1773064783_c6JMas.jpg"
-                        },
-                        {
-                            "label": "11.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/11_1773064786_jeirtY.jpg"
-                        },
-                        {
-                            "label": "12.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/12_1773064788_uA0nne.jpg"
-                        },
-                        {
-                            "label": "13.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/13_1773064791_NPo4Bj.jpg"
-                        },
-                        {
-                            "label": "14.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/14_1773064794_zga9uS.jpg"
-                        },
-                        {
-                            "label": "15.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/15_1773064796_PpWefG.jpg"
-                        },
-                        {
-                            "label": "16.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/16_1773064799_Dp2r78.jpg"
-                        },
-                        {
-                            "label": "17.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/17_1773064801_Gdltgp.jpg"
-                        },
-                        {
-                            "label": "18.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/18_1773064804_3fyKyT.jpg"
-                        },
-                        {
-                            "label": "19.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/19_1773064806_ahkhYg.jpg"
-                        },
-                        {
-                            "label": "20.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/20_1773064809_M3Y8Q5.jpg"
-                        },
-                        {
-                            "label": "21.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/21_1773064812_t8Pbda.jpg"
-                        },
-                        {
-                            "label": "22.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/22_1773064814_BKZlro.jpg"
-                        },
-                        {
-                            "label": "23.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/23_1773064817_AVtHQj.jpg"
-                        },
-                        {
-                            "label": "24.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/24_1773064819_kxdmWo.jpg"
-                        },
-                        {
-                            "label": "25.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/25_1773064822_vxbRUJ.jpg"
-                        },
-                        {
-                            "label": "26.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/26_1773064824_s6oHSI.jpg"
-                        },
-                        {
-                            "label": "27.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/27_1773064826_qVNi4m.jpg"
-                        },
-                        {
-                            "label": "28.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/28_1773064829_hT8qrJ.jpg"
-                        },
-                        {
-                            "label": "29.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/29_1773064831_GHz0Sg.jpg"
-                        },
-                        {
-                            "label": "30.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/30_1773064834_lWN2Cc.jpg"
-                        },
-                        {
-                            "label": "31.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/31_1773064837_5LNxHT.jpg"
-                        },
-                        {
-                            "label": "32.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/32_1773064840_mberg0.jpg"
-                        },
-                        {
-                            "label": "33.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/33_1773064842_gSE5v5.jpg"
-                        },
-                        {
-                            "label": "34.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/34_1773064845_Eq3UVM.jpg"
-                        },
-                        {
-                            "label": "35.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/35_1773064847_cmvyEm.jpg"
-                        },
-                        {
-                            "label": "36.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/36_1773064849_dF9Q8g.jpg"
-                        },
-                        {
-                            "label": "37.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/37_1773064852_CharjL.jpg"
-                        },
-                        {
-                            "label": "38.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/38_1773064855_hoHiYr.jpg"
-                        },
-                        {
-                            "label": "39.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/39_1773064857_QVHDSc.jpg"
-                        },
-                        {
-                            "label": "40.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/40_1773064860_gy4r0x.jpg"
-                        },
-                        {
-                            "label": "41.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/41_1773064863_kpqTzS.jpg"
-                        },
-                        {
-                            "label": "42.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/42_1773064866_oimCjo.jpg"
-                        },
-                        {
-                            "label": "43.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/43_1773064869_sdv1zI.jpg"
-                        },
-                        {
-                            "label": "44.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/44_1773064871_rwwN60.jpg"
-                        },
-                        {
-                            "label": "45.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/45_1773064875_tJyrfZ.jpg"
-                        },
-                        {
-                            "label": "46.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/46_1773064877_Pog6Iz.jpg"
-                        },
-                        {
-                            "label": "47.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/47_1773064880_CVtOff.jpg"
-                        },
-                        {
-                            "label": "48.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/48_1773064882_DLFLHw.jpg"
-                        },
-                        {
-                            "label": "49.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/49_1773064885_BvLRn0.jpg"
-                        },
-                        {
-                            "label": "50.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/50_1773064887_2FeSkt.jpg"
-                        },
-                        {
-                            "label": "51.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/51_1773064890_0VXjLO.jpg"
-                        },
-                        {
-                            "label": "52.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/52_1773064892_13KNkb.jpg"
-                        },
-                        {
-                            "label": "53.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/53_1773064895_RAZypM.jpg"
-                        },
-                        {
-                            "label": "54.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/54_1773064897_nhgkff.jpg"
-                        },
-                        {
-                            "label": "55.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/55_1773064900_fKE9eV.jpg"
-                        },
-                        {
-                            "label": "56.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/56_1773064903_pAhfpl.jpg"
-                        },
-                        {
-                            "label": "57.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/57_1773064905_zsSfnJ.jpg"
-                        },
-                        {
-                            "label": "58.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/foto/58_1773064907_KZozME.jpg"
-                        }
-                    ],
-                    "planos": [
-                        {
-                            "label": "Plot Planta Baja.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/plano/plot-planta-baja_1773064710_wG8oM7.jpg"
-                        },
-                        {
-                            "label": "Plot Primera Planta .jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/plano/plot-primera-planta_1773064712_mZKvAa.jpg"
-                        },
-                        {
-                            "label": "Villa 1.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/plano/villa-1_1773064717_oH1SvK.jpg"
-                        },
-                        {
-                            "label": "Sotano.jpg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/plano/sotano_1773064718_aOUJ4B.jpg"
-                        }
-                    ],
-                    "renders": [
-                        {
-                            "label": "1.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/1_1773064721_L6PXRP.png"
-                        },
-                        {
-                            "label": "Tour 360",
-                            "url": "https://santarosalia.360studios.net/index.htm"
-                        },
-                        {
-                            "label": "3.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/3_1773064725_3wR7yk.png"
-                        },
-                        {
-                            "label": "2.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/2_1773064728_Nb4hik.png"
-                        },
-                        {
-                            "label": "4.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/4_1773064730_MwilSK.png"
-                        },
-                        {
-                            "label": "6.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/6_1773064733_gjWIJk.png"
-                        },
-                        {
-                            "label": "5.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/5_1773064736_fdjFFh.png"
-                        },
-                        {
-                            "label": "7.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/7_1773064738_UIktkd.png"
-                        },
-                        {
-                            "label": "8.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/8_1773064741_ktEeeh.png"
-                        },
-                        {
-                            "label": "9.png",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/9_1773064744_mcd1rE.png"
-                        },
-                        {
-                            "label": "10.jpeg",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/render/10_1773064746_BTNb6N.jpeg"
-                        }
-                    ],
-                    "video": [],
-                    "dossier": [
-                        {
-                            "label": "Dosier LHVII.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/dossier/dosier-lhvii_1773064756_1HKJ1Q.pdf"
-                        },
-                        {
-                            "label": "Vista previa (foto's & plattegronden)",
-                            "url": "https://www.dropbox.com/scl/fo/x5chffk79vp5jlctzpmzk/AIPrSKPdZ4mOek_mikAvowk?rlkey=oo5hn6arv4zwglk9r2qakw7e3&st=ghe2we3j&dl=0"
-                        }
-                    ],
-                    "permisos": [],
-                    "calidades": [
-                        {
-                            "label": "FR - Mémoire de Qualité LH SEVEN.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/memoria/fr-memoire-de-qualite-lh-seven_1773064748_eW625M.pdf"
-                        },
-                        {
-                            "label": "EN - Quality List LH SEVEN.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/memoria/en-quality-list-lh-seven_1773064749_zs8N8B.pdf"
-                        },
-                        {
-                            "label": "ES - Memoria de Calidad LH SEVEN.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/memoria/es-memoria-de-calidad-lh-seven_1773064751_yrphIU.pdf"
-                        },
-                        {
-                            "label": "NL - Kwaliteitenlijst LH SEVEN.pdf",
-                            "url": "https://api.propertyco.es/api/storage/r2/promociones/64/memoria/nl-kwaliteitenlijst-lh-seven_1773064753_hZvBSE.pdf"
-                        }
-                    ]
-                },
-                "updatedAt": "2026-11-16T06:16:02+00:00"
+                "updatedAt": "2026-11-17T06:16:00+00:00"
             }
         },
         {
@@ -9240,7 +8842,7 @@
                 "price": 267000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 9 unidades — precios desde 267000.00€ hasta 509000.00€. Dormitorios: 2-4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qemlzns9r5c04hm2ma2s8/AJLhGg-5nPrWoZiBOfJ8OPM?rlkey=cv8tvq3tk43fq2gpockopacyw&st=selal8ga&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 9 unidades — precios desde 267000.00€ hasta 509000.00€. Dormitorios: 2-4. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/qemlzns9r5c04hm2ma2s8/AJLhGg-5nPrWoZiBOfJ8OPM?rlkey=cv8tvq3tk43fq2gpockopacyw&st=selal8ga&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747132303.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -9725,7 +9327,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:05+00:00"
+                "updatedAt": "2026-11-17T06:16:02+00:00"
             }
         },
         {
@@ -9741,7 +9343,7 @@
                 "price": 374900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 3 unidades — precios desde 374900.00€ hasta 424900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/gcovuk3m2qizxgbnprf5p/ADwe444hAmCERgcZ8rZ85G8?rlkey=nfb1dgg2wc08xebfs0skthow4&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 3 unidades — precios desde 374900.00€ hasta 424900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/gcovuk3m2qizxgbnprf5p/ADwe444hAmCERgcZ8rZ85G8?rlkey=nfb1dgg2wc08xebfs0skthow4&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1747133049.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -9982,7 +9584,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:07+00:00"
+                "updatedAt": "2026-11-17T06:16:04+00:00"
             }
         },
         {
@@ -9998,7 +9600,7 @@
                 "price": 245000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 245000.00€ hasta 245000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pd72kkxcziyp54c95zszv/h?rlkey=v863ronpie6biqdqdyk8zfbsd&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 245000.00€ hasta 245000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/pd72kkxcziyp54c95zszv/h?rlkey=v863ronpie6biqdqdyk8zfbsd&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1785144838_3%20copy.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10199,7 +9801,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:09+00:00"
+                "updatedAt": "2026-11-17T06:16:06+00:00"
             }
         },
         {
@@ -10215,7 +9817,7 @@
                 "price": 435000,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 435000.00€ hasta 435000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/l4y3a34n80rkhyg/AAAfjB5J5RGH8LDJwbv2FBt4a?dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 435000.00€ hasta 435000.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/sh/l4y3a34n80rkhyg/AAAfjB5J5RGH8LDJwbv2FBt4a?dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1781253864_1.jpeg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10352,7 +9954,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:12+00:00"
+                "updatedAt": "2026-11-17T06:16:09+00:00"
             }
         },
         {
@@ -10368,7 +9970,7 @@
                 "price": 419900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente).",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/1784884938_1.jpg",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -10689,7 +10291,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:14+00:00"
+                "updatedAt": "2026-11-17T06:16:11+00:00"
             }
         },
         {
@@ -10705,7 +10307,7 @@
                 "price": 419900,
                 "address": "",
                 "description": "",
-                "additionalInfo": "Disponibilidad al 16-11-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/2r34t92zkl9hoicayiyy8/ABv94M3O-yW9dse3iOiCLXc?rlkey=3scevi16bs2xn3xessfsztjgr&st=a6nvk0jc&dl=0",
+                "additionalInfo": "Disponibilidad al 17-11-2026: 1 unidades — precios desde 419900.00€ hasta 419900.00€. Dormitorios: 3. Fuente: propertyco.es/agencias (sincronizado automáticamente). Foto's & plattegronden: https://www.dropbox.com/scl/fo/2r34t92zkl9hoicayiyy8/ABv94M3O-yW9dse3iOiCLXc?rlkey=3scevi16bs2xn3xessfsztjgr&st=a6nvk0jc&dl=0",
                 "coverImageUrl": "https://api.propertyco.es/api/storage/r2/logos/logo_1750151496.png",
                 "promotorName": "Property Y Consulting Office (Paco Albaladejo)",
                 "promotorEmail": "hola@propertyandconsultingoffice.com",
@@ -11083,7 +10685,7 @@
                         }
                     ]
                 },
-                "updatedAt": "2026-11-16T06:16:16+00:00"
+                "updatedAt": "2026-11-17T06:16:13+00:00"
             }
         }
     ],
